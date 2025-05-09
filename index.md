@@ -10,8 +10,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
 ---
 ## 🚀 Projetos em Destaque
 
-- 🌟 **[Nome do Projeto 1](https://github.com/RuanT-310/Projeto1)**: Breve descrição do projeto.
-- 🌟 **[Nome do Projeto 2](https://github.com/RuanT-310/Projeto2)**: Breve descrição do projeto.
+- 🌟 **[MoonBlog](https://github.com/RuanT-310/Projeto1)**: Um blog para amantes da Lua
+- 🌟 **[Interfaces - BankList](https://github.com/RuanT-310/Projeto2)**: Uma listagem de contratos para os mais diveros casos
 
 ---
 
