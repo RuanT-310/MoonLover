@@ -10,58 +10,30 @@ layout: base
   {{ content }}
 
 
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
 
+# 👨‍💻 Olá, Eu Sou Ruan T.
 
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.minima.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra meus projetos, habilidades e formas de entrar em contato comigo.
 
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li>
-            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page" title="Go to Page {{ paginator.previous_page }}">
-              {{ paginator.previous_page }}
-            </a>
-          </li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li>
-            <a href="{{ paginator.next_page_path | relative_url }}" class="next-page" title="Go to Page {{ paginator.next_page }}">
-              {{ paginator.next_page }}
-            </a>
-          </li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
-  {%- endif -%}
+---
+## 🚀 Projetos em Destaque
+
+- 🌟 **[Nome do Projeto 1](https://github.com/RuanT-310/Projeto1)**: Breve descrição do projeto.
+- 🌟 **[Nome do Projeto 2](https://github.com/RuanT-310/Projeto2)**: Breve descrição do projeto.
+
+---
+
+## 🛠️ Minhas Habilidades
+
+- **Linguagens**: Python, JavaScript, C#.
+- **Frameworks**: React, Django, ASP.NET.
+- **Ferramentas**: Git, Docker, CI/CD.
+
+---
+
+## 🌐 Contato
+
+- GitHub: [RuanT-310](https://github.com/RuanT-310)
+- Email: [SeuEmail@email.com](mailto:SeuEmail@email.com)
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/SeuPerfil)
 </div>
