@@ -1,4 +1,4 @@
-## 👨‍💻 Ruan T. - Portfólio
+# 👨‍💻 Ruan T. - Portfólio
 
 Bem-vindo ao meu portfólio! Sou apaixonado por tecnologia, desenvolvimento de software e sempre em busca de novos desafios para expandir meu conhecimento.
 
