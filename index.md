@@ -1,10 +1,9 @@
 ---
 layout: home
-title: "Bem-vindo ao Meu Portfólio"
+title: "Home"
 ---
 
-
-# 👨‍💻 Olá, Eu Sou Ruan T.
+# 👨‍💻 Olá, Eu Sou Ruan Rolim
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra meus projetos, habilidades e formas de entrar em contato comigo.
 
