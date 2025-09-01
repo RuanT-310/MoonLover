@@ -5,7 +5,7 @@ title: "Home"
 
 # 🧑‍💻 Olá, Eu Sou Ruan Rolim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra meus projetos, habilidades e formas de entrar em contato comigo.
+Sou um desenvolvedor apaixonado por tecnologia. Aqui você encontra meus projetos, habilidades e formas de entrar em contato comigo.
 
 ---
 ## 🚀 Projetos em Destaque
@@ -18,13 +18,14 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra
 ## 🛠️ Minhas Habilidades
 
 - **Linguagens**: Python, JavaScript, C#.
-- **Frameworks**: React, Django, ASP.NET.
+- **Frameworks**: React, Django, ASP.NET, NestJs, LangChain, NextJs, Express, Jest (teste unitários, teste de integração).
 - **Ferramentas**: Git, Docker, CI/CD.
+- **Skills**: S.O.L.I.D, DDD, Clean Code, Scrum
 
 ---
 
 ## 🌐 Contato
 
 - GitHub: [RuanT-310](https://github.com/RuanT-310)
-- Email: [SeuEmail@email.com](mailto:SeuEmail@email.com)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/SeuPerfil)
+- Email: [ruan.rolim.137@gmail.com](mailto:SeuEmail@email.com)
+- PeerList: [Ruan](https://peerlist.io/ruanrolim)
